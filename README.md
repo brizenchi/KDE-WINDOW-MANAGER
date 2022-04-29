@@ -2,6 +2,16 @@
 ```shell
 sudo apt-get install wmctrl xdotool
 ```
+## get the window name of application
+```shell
+wmctrl -l
+0x04e00007  0 cbc-KLVC-WXX9 ~ : tmux: client — Konsole
+```
+## put your shortcus into custom shortcuts
+trigger: ctrl + shift + q
+action: ${YOUR_PATH}/KDE-WINDOW-MANAGER/keyshot.sh Konsole
+```
+
 ## Shortcut keys for my commonly used software
 ```shell
 dev tools
