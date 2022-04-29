@@ -14,8 +14,8 @@ dev tools
 
 common application
 	chrome		ctrl+alt+g
-	网易云	      ctrl+alt+y
-	钉钉	       ctrl+alt+e
+	music		ctrl+alt+y
+	dingtalk	ctrl+alt+e
 	telegram	ctrl+alt+w
 	dolphin     	ctrl+alt+f
 
@@ -28,11 +28,11 @@ text & office
 	xmind
 
 tools
-	剪切板          meta+c
-	单词            meta+z
-	全局搜索        alt+space
-	kazam          alt+shift+5
-	flameshot      alt+shift+4
+	copyhistory	meta+c
+	english		meta+z
+	gloablesearch	alt+space
+	kazam          	alt+shift+5
+	flameshot      	alt+shift+4
 
 todo
 	mail 		alt+f3
