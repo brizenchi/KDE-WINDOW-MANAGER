@@ -11,7 +11,7 @@ wmctrl -l
 trigger: ctrl + shift + q
 
 action: ${YOUR_PATH}/KDE-WINDOW-MANAGER/keyshot.sh Konsole
-```
+
 
 ## Shortcut keys for my commonly used software
 ```shell
