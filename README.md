@@ -9,6 +9,7 @@ wmctrl -l
 ```
 ## put your shortcus into custom shortcuts
 trigger: ctrl + shift + q
+
 action: ${YOUR_PATH}/KDE-WINDOW-MANAGER/keyshot.sh Konsole
 ```
 
